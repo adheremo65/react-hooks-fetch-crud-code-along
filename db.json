@@ -1,40 +1,22 @@
 {
   "items": [
     {
-      "id": 1,
-      "name": "Yogurt",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 2,
-      "name": "Pomegranate",
+      "name": "jemal agano",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 37
     },
     {
-      "id": 3,
-      "name": "Lettuce",
+      "name": "musterfa ",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": false,
+      "id": 38
     },
     {
-      "id": 4,
-      "name": "String Cheese",
+      "name": "lalmda",
       "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 5,
-      "name": "Swiss Cheese",
-      "category": "Dairy",
-      "isInCart": false
-    },
-    {
-      "id": 6,
-      "name": "Cookies",
-      "category": "Dessert",
-      "isInCart": false
+      "isInCart": false,
+      "id": 39
     }
   ]
 }
